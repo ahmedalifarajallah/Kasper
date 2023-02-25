@@ -1,5 +1,5 @@
 # Kasper
-Responsive website was created using HTML &amp; CSS 
+Responsive website was created using HTML &amp; CSS. "One of my first works"
 
 ## Links
 - [Repo] (<https://github.com/ahmedalifarajallah/Kasper/> "Kasper")
