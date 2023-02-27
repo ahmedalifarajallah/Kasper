@@ -512,6 +512,7 @@ header .form i{
 .video video{
     width:100%;
 }
+
 .video .text{
     position: absolute;
     top: 50%;
@@ -526,14 +527,17 @@ header .form i{
     -ms-transform: translateY(-50%);
     -o-transform: translateY(-50%);
 }
+
 .video .text h2{
     margin: 0 0 30px;
     text-transform: uppercase;
     font-weight: normal;
 }
+
 .video .text p{
     margin-bottom: 30px;
 }
+
 .video button{
     background-color: black;
     color: white;
@@ -541,7 +545,26 @@ header .form i{
     border: none;
     text-transform: uppercase;
 }
-
+@media (max-width: 575px) {
+    .video .text{
+        padding: 15px;
+    }
+    
+    .video .text h2 {
+    margin-bottom: 10px;
+    font-size: 16px;
+    }
+    
+    .video .text p {
+    margin-bottom: 10px;
+    font-size: 14px;
+    }
+    
+    .video button {
+    padding: 5px 10px;
+    font-size: 14px;
+    }  
+}
 .about{
     padding-top: 100px;
     overflow: hidden;
