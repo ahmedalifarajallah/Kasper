@@ -547,7 +547,7 @@ header .form i{
 }
 @media (max-width: 575px) {
     .video .text{
-        padding: 15px;
+        padding: 20px 15px;
     }
     
     .video .text h2 {
