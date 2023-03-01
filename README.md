@@ -7,7 +7,7 @@ Responsive website was created using HTML &amp; CSS. "One of my first works"
 
 
 ## Screenshots
-![Kasper--All Website]()
+![Kasper -- All_website](https://user-images.githubusercontent.com/126039300/222029266-6caac348-8103-4386-836c-a39ee315073e.jpeg)
 
 
 ## Built With
